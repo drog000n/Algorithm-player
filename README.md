@@ -26,4 +26,4 @@ This repository is about algorithm training for beginners
 参考 [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html);
 
 另外——  
-如果您没有上传您的代码而仅仅只是上传了题目，请在 commit 时备注 **unsolved** 字样；同样，如果您解决了仓库中的未解决的问题，欢迎在 commit 时备注 **您的github昵称 solved the problem**
+如果您没有上传您的代码而仅仅只是上传了题目，请在 commit 时备注 **unsolved** 字样；同样，如果您解决了仓库中的未解决的问题，欢迎在 commit 时备注 **complete the challenge**
